@@ -26,7 +26,7 @@ class App extends Component {
           <p>
             {this.state.message}
           </p>
-          <p>Version: 2</p>
+          <p>Version: 3</p>
         </header>
       </div>
     );
